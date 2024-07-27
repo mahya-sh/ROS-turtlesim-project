@@ -13,3 +13,6 @@ This repository contains the implementation of a project in the Robot Operating 
    - Offers additional functionality compared to the regular version, allowing control over the 'M' turtles.
 
 Both files contain a 'launch' file, 'scripts', 'CMakeLists', and 'package.xml'. The project is implemented in the 'src' directory of the 'catkin_ws' in a Linux Ubuntu virtual machine.
+
+## PDF Report
+For detailed information, please refer to the [Project Report](./Report.pdf).
